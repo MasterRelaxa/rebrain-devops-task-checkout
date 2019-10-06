@@ -1,0 +1,1 @@
+Just nginx.conf there
